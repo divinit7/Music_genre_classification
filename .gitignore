@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+genres*
+data/image_data/
+music_gen
+img_data/
 
 # C extensions
 *.so
